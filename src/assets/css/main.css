@@ -5,9 +5,11 @@
 }
 
 /*cell-c*/
-.header{
-  position:fixed;z-index:99999;
-  }
+.header {
+  position: fixed;
+  z-index: 99999;
+}
+
 .menu {
   margin: 15px;
   background-color: white;
@@ -80,9 +82,11 @@
   color: #ff4136;
   font-weight: bold;
 }
-.page-sec .cell-c{
- padding-top:100px;
+
+.page-sec .cell-c {
+  padding-top: 100px;
 }
+
 .page-sec label {
   color: #0074d9;
   font-size: 13px;
